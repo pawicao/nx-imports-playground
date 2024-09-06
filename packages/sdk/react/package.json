@@ -1,0 +1,9 @@
+{
+  "name": "@my-org/sdk-react",
+  "version": "0.0.1",
+  "dependencies": {
+    "@my-org/sdk": "^0.0.1",
+    "@my-org/types": "^0.0.1",
+    "@tanstack/react-query": "^5.55.0"
+  }
+}
